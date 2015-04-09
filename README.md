@@ -1,0 +1,2 @@
+# sol
+opinionated lua dialect
